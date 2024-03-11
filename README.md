@@ -5,8 +5,6 @@ Module 6 Python API challenge.
 
 This challenge was completed as part of the [Northwestern University Data Science and Visualization BootCamp](https://bootcamp.northwestern.edu/data/).
 
-#### Project Status: Completed
-
 ## Objective
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 
