@@ -26,7 +26,3 @@ Now, we know what you may be thinking: “That’s obvious. It gets hotter.” B
 * Jupyter Notebook
 
 
-### Reources
-1. Previous Class Activities
-
-2. Ask BCS Support
